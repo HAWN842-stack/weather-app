@@ -1,16 +1,20 @@
-<p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
+# Weather App
 
-<p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
+A weather application built with React. Shows current weather data based on the user's location or a searched city.
+
+## Features
+
+- Current weather for your location
+- City search
+- Real-time clock display
 
 ## Setup
 
-```
-npm i && npm start
-```
+\`\`\`
+npm install
+npm start
+\`\`\`
+
+## Author
+
+Hüseyn (HAWN842-stack)
