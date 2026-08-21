@@ -8,7 +8,7 @@ A weather application built with React. Shows current weather data based on the 
 - Cityies search
 - Real-time clock display
 
-## Setub
+## Setup
 
 \`\`\`
 npm install
