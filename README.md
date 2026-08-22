@@ -5,7 +5,7 @@ A weather application built with React. Shows current weather data based on the 
 ## Features
 
 - Current weather for your location
-- Cityies search
+- City search
 - Real-time clock display
 
 ## Setup
