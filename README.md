@@ -1,4 +1,4 @@
-# Weather App.
+# Weather App
 
 A weatherapplication built with React. Shows current weather data based on the user's location or a searched city.
 
