@@ -1,6 +1,6 @@
 # Weather App
 
-A weatherapplication built with React. Shows current weather data based on the user's location or a searched city.
+A weatherapplication buildt with React. Shows current weather data based on the user's location or a searched city.
 
 ## Features
 
